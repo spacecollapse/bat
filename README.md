@@ -8,7 +8,7 @@
 нажимаете троечку и нажимаете Enter
 
 
-Скачать - https://github.com/defoxxx/bat/releases/download/cleaner/Windows.bat
+Скачать - https://github.com/spacecollapse/bat/releases/download/cleaner/Windows.bat
 
 
 Второй:
@@ -16,4 +16,4 @@
 ![image](https://user-images.githubusercontent.com/53594431/208307485-fe76522f-878f-4b72-84ad-d3f0cb3e4b50.png)
 
 
-Скачать - https://github.com/defoxxx/bat/releases/download/cleaner/cleaner.bat
+Скачать - https://github.com/spacecollapse/bat/releases/download/cleaner/cleaner.bat
